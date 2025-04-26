@@ -1,24 +1,17 @@
+header ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header li {
+  list-style: none;
+  font-weight: bold;
+}
+header a {
+  text-decoration: none;
+  color: black;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*# sourceMappingURL=style.css.map */
+body {
+  font-family: "PT Sans", "Arial", sans-serif;
+}/*# sourceMappingURL=style.css.map */
